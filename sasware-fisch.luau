@@ -683,7 +683,7 @@ local Success, Error = pcall(function()
 	})
 
 	ReelingGroup:AddToggle("AutoReel", {
-		Text = "Auto-reel [Legit]",
+		Text = "Auto-reel [Nomal]",
 		Default = false,
 		Tooltip = "Automatically plays the reel minigame.",
 		Callback = function(Value: boolean)
