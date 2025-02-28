@@ -694,7 +694,7 @@ local Success, Error = pcall(function()
 	})
 
 	ReelingGroup:AddToggle("InstantReel", {
-		Text = "Insta-reel [Blatant]",
+		Text = "Auto-reel [Fast]",
 		Default = false,
 		Tooltip = "Automatically reels in fish instantly.",
 		Callback = function(Value: boolean)
