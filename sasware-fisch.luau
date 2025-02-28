@@ -9,7 +9,7 @@ local Success, Error = pcall(function()
 	local Version = 1.3
 	local SubVersion = "beta"
 	local Debugging = true
-	local Title = "Sasware"
+	local Title = "Pre1tyboy"
 
 	local HttpService = game:GetService("HttpService")
 	local Players = game:GetService("Players")
