@@ -6,8 +6,8 @@ local Success, Error = pcall(function()
 	Start = os.clock()
 	local NO_HOOKING = false
 
-	local Version = 1.3
-	local SubVersion = "beta"
+	local Version = 999
+	local SubVersion = "Fullversion"
 	local Debugging = true
 	local Title = "Pre1tyboy"
 
