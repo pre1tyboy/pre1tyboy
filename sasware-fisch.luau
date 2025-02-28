@@ -1674,7 +1674,7 @@ local Success, Error = pcall(function()
 	SaveManager:LoadAutoloadConfig()
 	PreAutoloadConfig = false
 
-	Utils.GameNotify("Sasware [Fisch] loaded successfully!")
+	Utils.GameNotify("Pre1tyboy loaded successfully!")
 
 	-- DONT REMOVE this end remember this is wrapped in a pcall
 end)
